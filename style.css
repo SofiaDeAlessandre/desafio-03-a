@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(37, 37, 53);
-  color: rgb(198, 202, 251);
+  background-color: rgb(39,50,56);
+  color: rgb(181,204,215);
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
@@ -9,9 +9,9 @@ p {
 }
 
 .titulo {
-  background-color: rgb(228, 230, 250);
+  background-color: rgb(255,255,255);
   text-align: center;
-  color: rgb(96, 96, 146);
+  color: rgb(105,133,147);
   font-family: Impact, Charcoal, sans-serif;
   font-size: 60px;
   padding: 10px;
